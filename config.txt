@@ -1,0 +1,8 @@
+srcpath,./test1
+outpath,./test2
+srcstr-outstr
+test1,test2
+guohuai1,guohuai2
+
+
+******end********
